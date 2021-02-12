@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VardanMelik
 - 👀 I’m interested in ... React/Node
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working with MERT technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via LinkedIn Vardan Meliksetyan
 <!---
