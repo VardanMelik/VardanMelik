@@ -7,7 +7,7 @@ I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
 - 🌱 I’m currently working with MERT technology
 - 💞️ I’m looking to collaborate on iGaming industry
 - 📫 Reach me via LinkedIn Vardan Meliksetyan<hr>
-<a href="https://www.linkedin.com/in/vardanmeliksetyan/" target="_blank"></a>
+
 <!---
 VardanMelik/VardanMelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
