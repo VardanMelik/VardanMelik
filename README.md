@@ -1,4 +1,6 @@
 <h1>Hi I'm Vardan</h1> 
+I'm Vardan Meliksetyan a Full Stack Web Developer.
+
 - 👋 Hi, I’m @VardanMelik
 - 👀 I’m interested in ... React/Node
 - 🌱 I’m currently working with MERT technology
