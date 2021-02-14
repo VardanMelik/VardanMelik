@@ -9,10 +9,7 @@ I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
 - 💞️ I’m looking to collaborate on iGaming industry
 - 📫 Reach me via LinkedIn Vardan Meliksetyan<hr>
 
-Top Technologies
-React Badge Javascript Badge Typescript Badge Nodejs Badge GraphQL Badge
 
-Tutorials
 
 <!---
 VardanMelik/VardanMelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
