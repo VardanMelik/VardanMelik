@@ -1,6 +1,6 @@
 <h1>Hi I'm Vardan</h1> 
 I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
-mailbox Reach me out!
+📫 Reach me out!
 
 - 👋 Hi, I’m @VardanMelik
 - 👀 I’m interested in ... React/Node
