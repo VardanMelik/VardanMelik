@@ -1,3 +1,4 @@
+<h1>Hi I'm Vardan</h1> 
 - 👋 Hi, I’m @VardanMelik
 - 👀 I’m interested in ... React/Node
 - 🌱 I’m currently working with MERT technology
