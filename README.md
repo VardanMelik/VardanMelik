@@ -5,7 +5,7 @@ I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
 
 - 👋 Hi, I’m @VardanMelik
 - 👀 I’m interested in ... React/Node
-- 🌱 I’m currently working with MERT technology
+- 🌱 I’m currently working with MERN technology
 - 💞️ I’m looking to collaborate on iGaming industry
 - 📫 Reach me via LinkedIn Vardan Meliksetyan<hr>
 
