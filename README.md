@@ -9,6 +9,12 @@ I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
 - 💞️ I’m looking to collaborate on iGaming industry
 - 📫 Reach me via LinkedIn Vardan Meliksetyan<hr>
 
+🌎 My Languages 🌎
+
+AM Armenian: Native 
+US English: Fluent
+RU Russian: Fluent
+
 
 
 <!---
