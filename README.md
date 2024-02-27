@@ -11,9 +11,9 @@ I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
 
 🌎 My Languages 🌎
 
-AM Armenian: Native 
-US English: Fluent
-RU Russian: Fluent
+AM Armenian: Native<br> 
+US English: Fluent<br>
+RU Russian: Fluent<br>
 
 
 
