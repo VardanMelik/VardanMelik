@@ -1,4 +1,4 @@
-<h1>Hi I'm Vardan</h1> 
+<h1>👋 Vardan's GitHub Profile 👋</h1> 
 I'm Vardan Meliksetyan a Full Stack Web Developer.<br>
 
 📫 Reach me out!
